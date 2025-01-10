@@ -57,7 +57,3 @@ class BinarySearchTree:
 
         
 bst1 = BinarySearchTree()
-bst1.Add(10)
-bst1.Add(5)
-bst1.Add(60)
-bst1.Add(90)
